@@ -1,1 +1,1 @@
-# Image-Text-Translation
+# Image-and-PDF-Text-Translation
